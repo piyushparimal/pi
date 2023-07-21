@@ -2,9 +2,7 @@
 {
     width: auto;
     padding: 50px;
-    /* background: linear-gradient(to top, #2C5364, #203A43, #0F2027); */
-    background: linear-gradient(120deg, #d5aff8 0%, #7fbaf5 100%);
-    /* background: linear-gradient(115deg, #5A0A61 0%, #170536 100%); */
+    background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
 }
 .header
 {
@@ -21,7 +19,6 @@
 .header-logo
 {
     margin-right: 0px;
-    /* width: inherit; */
 }
 .flex-container-header {
     display: flex;
@@ -82,9 +79,7 @@
 {
     width: auto;
     padding: 50px;
-    /* background: linear-gradient(to top, #2C5364, #203A43, #0F2027); */
-    background: linear-gradient(120deg, #d5aff8 0%, #7fbaf5 100%);
-    /* background: linear-gradient(115deg, #5A0A61 0%, #170536 100%); */
+    background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
     margin: 0px;
 }
 .footer-text
