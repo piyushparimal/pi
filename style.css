@@ -1,8 +1,8 @@
 .landing
 {
     width: auto;
-    padding: 50px;
-    background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
+    padding: 30px;
+    background-image: url("./Assets/Moon\ +\ Stars.jpg");
 }
 .header
 {
@@ -19,6 +19,7 @@
 .header-logo
 {
     margin-right: 0px;
+    /* width: inherit; */
 }
 .flex-container-header {
     display: flex;
@@ -29,16 +30,35 @@
 .body-section
 {
     font-size: 18px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Outfit', sans-serif;
     margin: 0px;
 }
 .cover-heading
 {
     vertical-align: middle;
-    font-size: 96px;
+    font-size: 64px;
     text-align: center;
-    padding: 90px;
+    padding: 108px;
     color: #ffffff;
+    margin: 0;
+}
+.flex-container-row
+{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.flex-container-column
+{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    
+}
+.flex-items{
+
 }
 .image
 {
@@ -79,7 +99,7 @@
 {
     width: auto;
     padding: 50px;
-    background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
+    background-image: url("./Assets/Moon\ +\ Stars.jpg");
     margin: 0px;
 }
 .footer-text
