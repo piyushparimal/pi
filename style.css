@@ -30,7 +30,7 @@
 .body-section
 {
     font-size: 18px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Merriweather', serif;
     margin: 0px;
 }
 .cover-heading
@@ -57,6 +57,7 @@
     flex-direction: column;
     
 }
+
 
 .image
 {
